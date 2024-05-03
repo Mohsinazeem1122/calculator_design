@@ -50,5 +50,6 @@ input {
   background-color: rgb(226, 45, 45);
 }
 #plus {
-  /* height: 100px; */
+  height: 143px;
+  position: fixed;
 }
